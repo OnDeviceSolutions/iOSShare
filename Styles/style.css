@@ -137,10 +137,12 @@ form button {
   padding: 10px 15px;
   color: #ffffff;
   border-radius: 3px;
-  width: 250px;
+  height: 100px;
+  width: 350px;
   cursor: pointer;
-  font-size: 30px;
-  border-radius: 40px;
+  font-size: 40px;
+  border-radius: 60px;
+}
 }
 form button:hover {
   background-color: #f5f7f9;
