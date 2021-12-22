@@ -4,3 +4,7 @@ $("#login-button-Clariant").click(function(event){
 $("#login-button-Heritage").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/2lqo4uqw7h3n6lx/manifest.plist")
 });
+$("#login-button-mJC").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/q4xlqiargau307y/manifest.plist")
+});
+
