@@ -66,6 +66,18 @@ body :-ms-input-placeholder {
   height: 100%;
   text-align: center;
 }
+.container1 {
+  margin: 0 auto;
+  padding: 120px 0;
+  height: 100%;
+  text-align: center;
+}
+.container1 h4 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: cursive;
+    color:black;
+}
 .btn-in-row{
     display: inline-block !important
 }
@@ -88,7 +100,7 @@ body :-ms-input-placeholder {
     font-size: 40px;
     font-weight: 300;
     font-family: 'Apple Chancery';
-    color:black;
+    color:white;
 }
 .container h4 {
     font-size: 30px;
