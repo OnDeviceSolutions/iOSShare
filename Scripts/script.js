@@ -10,4 +10,9 @@ $("#login-button-Heritage").click(function(event){
 $("#login-button-mJC").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/q4xlqiargau307y/manifest.plist")
 });
-
+$("#login-button-ODSmyAsset").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/hrqelwvlft50xex/manifest.plist")
+});
+$("#login-button-ODSmyFormsEngine").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/noyowbncns0c0yq/manifest.plist")
+});
