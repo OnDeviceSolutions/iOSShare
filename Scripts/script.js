@@ -2,7 +2,7 @@ $("#login-button-Clariant").click(function(event){
 	window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/0jco26xf8ikx8sf/manifest.plist")
 });
 $("#login-button-ClariantQA").click(function(event){
-    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/kmcwuf9vujzw2v6/manifest.plist")
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/6d6hr5fmwxmx3we/manifest.plist")
 });
 $("#login-button-Heritage").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/2lqo4uqw7h3n6lx/manifest.plist")
@@ -13,6 +13,7 @@ $("#login-button-mJC").click(function(event){
 $("#login-button-ODSmyAsset").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/hrqelwvlft50xex/manifest.plist")
 });
-$("#login-button-ODSmyFormsEngine").click(function(event){
-    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/noyowbncns0c0yq/manifest.plist")
+$("#login-button-ODSmyForms").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/1c8j6s8j4mc0ie5/manifest.plist")
 });
+
