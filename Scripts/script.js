@@ -1,5 +1,5 @@
-$("#login-button-Clariant").click(function(event){
-	window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/0jco26xf8ikx8sf/manifest.plist")
+$("#login-button-ClariantPRD").click(function(event){
+	window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/fwicgukio4d5b53/manifest.plist")
 });
 $("#login-button-ClariantQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/6d6hr5fmwxmx3we/manifest.plist")
