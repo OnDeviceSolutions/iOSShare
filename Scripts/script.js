@@ -19,4 +19,7 @@ $("#login-button-ODSmyForms").click(function(event){
 $("#login-button-ClariantmyForms").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/gufvnzlbnpm42zg/manifest.plist")
 });
+$("#login-button-mJCQA").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/5tkt9jui39ixme2/manifest.plist")
+});
 
