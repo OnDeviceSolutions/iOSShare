@@ -17,7 +17,7 @@ $("#login-button-ODSmyForms").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/1c8j6s8j4mc0ie5/manifest.plist")
 });
 $("#login-button-ClariantmyForms").click(function(event){
-    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/gufvnzlbnpm42zg/manifest.plist")
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/t7tpmncslswqibq/manifest.plist")
 });
 $("#login-button-mJCQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/5tkt9jui39ixme2/manifest.plist")
