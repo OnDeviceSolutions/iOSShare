@@ -11,7 +11,7 @@ $("#login-button-mJC").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/5n9r0fiobugk2zs/manifest.plist")
 });
 $("#login-button-ODSmyAsset").click(function(event){
-    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/hrqelwvlft50xex/manifest.plist")
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/8icyvz22u7kqu3l/manifest.plist")
 });
 $("#login-button-ODSmyForms").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/1c8j6s8j4mc0ie5/manifest.plist")
