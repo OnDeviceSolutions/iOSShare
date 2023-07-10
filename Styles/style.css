@@ -62,13 +62,13 @@ body :-ms-input-placeholder {
 /*}*/
 .container {
   margin: 0 auto;
-  padding: 280px 0;
+  padding: 220px 0;
   height: 100%;
   text-align: center;
 }
 .container1 {
   margin: 0 auto;
-  padding: 120px 0;
+  padding: 10px 0;
   height: 100%;
   text-align: center;
 }
