@@ -29,7 +29,7 @@ $("#login-button-mJCQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/rboiapvihif0623/manifest.plist")
 });
 $("#login-button-mJCSales").click(function(event){
-    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/scl/fi/jjmeyfqed8ergzu/manifest.plist")
+    window.open("itms-services://?action=download-manifest&url=https://www.dropbox.com/s/jjmeyfqed8ergzu/manifest.plist")
 });
 $("#login-button-ClariantmyFormsQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/jcoiirdacplmsu0/manifest.plist")
