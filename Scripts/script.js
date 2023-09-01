@@ -28,6 +28,9 @@ $("#login-button-ClariantmyForms").click(function(event){
 $("#login-button-mJCQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/rboiapvihif0623/manifest.plist")
 });
+$("#login-button-mJCSales").click(function(event){
+    window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/9hounfwg19hqnldqlmvhh/manifest.plist")
+});
 $("#login-button-ClariantmyFormsQA").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/jcoiirdacplmsu0/manifest.plist")
 });
