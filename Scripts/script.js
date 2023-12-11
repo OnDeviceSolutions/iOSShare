@@ -19,7 +19,7 @@ $("#login-button-ODSmyAssetQA").click(function(event){
 $("#login-button-ODSmyForms").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/1c8j6s8j4mc0ie5/manifest.plist")
 });
-$("#login-button-ODSmyFormsES1").click(function(event){
+$("#login-button-ODSmyFormsSales").click(function(event){
     window.open("itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/6tpudhxhololjvh/manifest.plist")
 });
 $("#login-button-ClariantmyForms").click(function(event){
